@@ -1,8 +1,8 @@
 public class TestPulls{
 
-  public static void main(Spring[] args){
+  public static void main(String[] args){
   
-    System.out.printlb("TestPulls");
+    System.out.println("TestPulls");
   
   }
   
